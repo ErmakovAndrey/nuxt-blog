@@ -1,4 +1,4 @@
-# nuxt-blog
+# Here is a blog driven by Nuxtjs and uses Firebase API as a beck-end
 
 ## Build Setup
 
